@@ -30,7 +30,7 @@ Hi , I'm Lokesh
 - Spring Boot  
 - Microservices Basics  
 - System Design Fundamentals
-- 
+  
 ##  Connect With Me
 -  Email: yourmail@gmail.com  
 - LinkedIn: https://linkedin.com/in/yourprofile  
