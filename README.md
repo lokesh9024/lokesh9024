@@ -32,8 +32,8 @@ Hi , I'm Lokesh
 - System Design Fundamentals
   
 ##  Connect With Me
--  Email: yourmail@gmail.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
+-  Email: lkjangid9660@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/lokesh-jangid-5807152a8
 ##  Fun Fact
 - I believe consistency + hard work = success 
  *Thanks for visiting my profile!*
